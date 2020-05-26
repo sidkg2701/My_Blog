@@ -1,0 +1,85 @@
+.navbar{
+			background-color: rgba(66,73,100,0.9);
+			padding: 18px 18px;
+		}
+		.fb {
+			color: white;
+			padding-left: 15px;
+		}
+		.references{
+			color: white;
+			padding-left: 15px;
+		}
+.container-p1{
+	text-align: center;
+	background-color: white;
+}
+.head{
+	padding-top: 60px;
+	font-size: 4vw;
+	font-family: bold;
+}
+.para{
+	font-size: 1.3vw;
+}
+span{
+	background-color: black;
+	color: white;
+}
+.image{
+	margin-top: 60px;
+	width: 100%;
+}
+.headr{
+	margin-top: -190px;
+	margin-left: 600px;
+	color: rgb(400,80,400);
+}
+.butt{
+	background-color: rgb(400,400,80);
+}
+.container{
+	margin-top: 200px;
+}
+.container1{
+	background: url(back2.jpeg) ;
+	background-repeat: no-repeat;
+	background-size: 1800px 1600px;
+	opacity: 0.8;
+}
+.card{
+	background-image: url(sky.jpeg);
+	background-repeat: no-repeat;
+}
+.card-deck{
+	background-image: url(back2.jpeg);
+	background-repeat: no-repeat;
+	background-size: 1600px 800px;
+	margin-top: 1px;
+}
+.dd{
+	background-color:rgb(120,120,130);
+	color: white;
+	display: block;
+	border-radius: 10px;
+}
+.ddd{
+	background-color:red;
+	color: white;
+	display: block;
+	border-radius: 10px;
+}
+footer{
+	background-color: black;
+	color: white;
+	height: 240px;
+	margin-top: 10px;
+}
+footer p{
+	margin-left: 500px;
+}
+.container4{
+	background-image: url(quote.jpeg);
+	background-repeat: no-repeat;
+	background-size: 1600px 1600px;
+}
